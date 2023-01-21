@@ -265,10 +265,6 @@ img {
   margin-right: 24px;
 }
 
-/* .list > .icon {
-  width: 100%;
-} */
-
 .list-svg {
   height: 112px;
   background-color: var(--logo-footer);
@@ -278,24 +274,6 @@ img {
   align-items: center;
   justify-content: center;
 }
-
-/* .order-title::before {
-  content: "";
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 112px;
-  background-color: var(--logo-footer);
-  border-radius: 4px;
-  margin-bottom: 8px;
-
-  background-image: url(../images/icons.svg#icon-clock-1);
-}
-
-.order-title .clock::before {
-  background-image: url(../images/icons.svg#icon-clock-1);
-} */
 
 .order-title {
   font-weight: 500;
